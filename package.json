@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "proyectotp1",
+  "version": "0.0.1",
+  "description": "proyecto para realizar el tp1 de tp2",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/testAll.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannyj182/proyectotp1.git"
+  },
+  "author": "DAJC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dannyj182/proyectotp1/issues"
+  },
+  "homepage": "https://github.com/dannyj182/proyectotp1#readme"
+}
