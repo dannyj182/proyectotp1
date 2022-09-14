@@ -13,7 +13,8 @@ try{
 
 console.log("<--------Función: transformarStringEnArrayDeNumeros------->")
 let texto = '123 | 456 | 789 | 1bc | 10'
-let arreglo = operaciones.transformarStringEnArrayDeNumeros(texto, ' | ')
+let separador = ' | '
+let arreglo = operaciones.transformarStringEnArrayDeNumeros(texto, separador)
 console.log("Texto original: " + texto);
 console.log(arreglo);
 
